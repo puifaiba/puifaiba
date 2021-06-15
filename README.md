@@ -5,11 +5,11 @@
   <li> 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="16px" />. 
 </ul>
 
-#### Here's a demo of my latest project - <a href="https://youtu.be/8hv3rh2fufg">POM</a>
+#### 👉 Here's a demo of my latest project - <a href="https://youtu.be/8hv3rh2fufg">POM</a>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.JS" height="16px" /> Frontend
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" height="16px" /> Backend
 
-### 🤝 I would love to connect and collaborate on projects! 
+#### 🤝 I love solving problems 🕵🏻 and look forward to connecting and collaborating on projects. 👯 Let's do something fun together!
 <ul>
   <li> 
     <a href="https://www.linkedin.com/in/boonieattawut/">
