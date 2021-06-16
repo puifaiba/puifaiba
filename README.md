@@ -22,7 +22,11 @@
   <li> 
     <a href="https://www.twitter.com/booniecodes">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="20px" /> 
-    </a>    
+    </a> 
+  <li>
+    <a href="https://www.booniecodes.com">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter" height="20px" /> 
+    </a> 
 </ul>
 
 
