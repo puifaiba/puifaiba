@@ -4,6 +4,7 @@
   <li> 🔭 I’m working on honing my <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="16px" /> skills 👩🏻‍💻
   <li> 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="16px" />
   <li> 🕹 Having fun exploring kaboom.js 💥
+  <li> 🙋‍♀️ Learning Computer Science at the Tandon Bridge Program at NYU 
 </ul>
 
 #### 👉 Here's a <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="16px" /> demo of my latest project - <a href="https://youtu.be/8hv3rh2fufg">POM</a>
