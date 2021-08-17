@@ -3,7 +3,7 @@
 <ul>
   <li> 🔭 I’m working on honing my <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript" height="16px" /> skills 👩🏻‍💻 Now going through Javascript 30 lessons
   <li> 🌱 I’m currently learning <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="16px" />
-  <li> 🕹 Having fun exploring kaboom.js 💥
+  <li> 🕹 Having fun exploring kaboom.js💥 and creating games
   <li> 🙋‍♀️ Learning Computer Science at the NYU Tandon Bridge Program (C++, Discrete Maths, Data Structures and Algorithm)
 </ul>
 
